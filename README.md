@@ -3,7 +3,7 @@
 ## Project Overview
 
 This is a React + TypeScript project featuring a fully functional chat popup component. The chat interface allows users to toggle the chat window, send messages, and receive simulated bot responses with smooth animations and dynamic message rendering.
-
+![Screenshot of the chat application](chatapp.png)
 ## Installation
 
 Follow these steps to set up and run the project locally:
